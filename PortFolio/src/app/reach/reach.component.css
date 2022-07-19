@@ -1,0 +1,28 @@
+.p-img {
+    background: url(/assets/img/silpa.jpg);
+    width: 110%;
+    height: 495px;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.p-img1 {
+    background: url(/assets/img/keralatourism.mhtml);
+    width: 110%;
+    height: 495px;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.uff {
+    color: grey;
+    font-style: bold;
+}
+
+.pdisc {
+    color: black;
+    width: 80%;
+    text-align: justify;
+}

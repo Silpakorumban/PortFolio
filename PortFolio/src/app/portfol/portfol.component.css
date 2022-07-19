@@ -7,6 +7,15 @@
     background-repeat: no-repeat;
 }
 
+.p-img1 {
+    background: url(/assets/img/keralatourism.mhtml);
+    width: 110%;
+    height: 495px;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
 .uff {
     color: grey;
     font-style: bold;
